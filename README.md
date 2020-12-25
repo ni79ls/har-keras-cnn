@@ -6,3 +6,5 @@ A CNN works well for identifying simple patterns within your data which will the
 In this example we will train a 1D convolutional neural network (1D CNN) to recognize the type of movement (Walking, Running, Jogging, etc.) based on a given set of accelerometer data from a mobile device carried around a person's waist.
 
 We will use the WISDM data set (Activity Prediction) for this tutorial: http://www.cis.fordham.edu/wisdm/dataset.php
+
+The original Medium article can be found here: https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf?source=friends_link&sk=d6368a048994ad0e6cd242bb274f64d9
